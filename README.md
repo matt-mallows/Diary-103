@@ -1,8 +1,9 @@
-# Diary submission (ICS 103)
-_This Project is a Work in Progress_
-- The **'Diary'** is a project made to help us learn more about GUIs. We were tasked to create different JFrame Forms for the UI of the project.
-  - It consists of 4 JFrame Forms. Much like a Diary, it starts with a Log-in Page for the users to input their information in.
-  - After entering, it takes the user to the main panel, which they can enter their entries, including this Diary ID, Date/Time, and the Content.
+# the innerlogue (ICS 103)
+- **the innerlogue** is a project made to help us learn more about GUIs. We were tasked to create different JFrame Forms for the UI of the project.
+  - It consists of 5 JFrame Forms. Much like a Diary, it starts with a Log-in Page for the users to input their information in.
+  - The 5 Main Menus includes (Login, Landing, Diary, All Entries, About)
+  - After entering, it takes the user to the login panel, then the landing page.
+  - The Diary Page which they can enter their entries, including this Diary ID, Date/Time, and the Content.
   - After that Users can also view previous entries and all of the entries.
   - The Diaries are stored in the local desktop _(C:/Data/diary.txt)_.
 
